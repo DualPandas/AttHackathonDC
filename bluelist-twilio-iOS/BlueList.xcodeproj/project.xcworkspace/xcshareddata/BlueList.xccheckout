@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8794C2AE-BAAF-412A-9877-4A868CF2CD47</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BlueList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FB548179-1859-4406-9B55-EFB35284308D</key>
+		<string>https://hub.jazz.net/git/mobilecloud/bluelist-twilio</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>bluelist-twilio-iOS/BlueList.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FB548179-1859-4406-9B55-EFB35284308D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://hub.jazz.net/git/mobilecloud/bluelist-twilio</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FB548179-1859-4406-9B55-EFB35284308D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FB548179-1859-4406-9B55-EFB35284308D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bluelist-twilio</string>
+		</dict>
+	</array>
+</dict>
+</plist>

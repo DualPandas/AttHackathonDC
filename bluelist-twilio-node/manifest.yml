@@ -1,0 +1,8 @@
+  host: TodoAppList
+  disk: 1024M
+  name: TodoAppList
+  command: node app.js
+  path: .
+  domain: mybluemix.net
+  memory: 128M
+  instances: 1

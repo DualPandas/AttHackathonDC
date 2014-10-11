@@ -1,0 +1,27 @@
+PODS:
+  - IBMBluemix (1.0.0.20140707-1250)
+  - IBMCloudCode (1.0.0.20140707-1250):
+    - IBMBluemix (~> 1.0.0)
+  - IBMData (1.0.0.20140707-1250):
+    - IBMBluemix (~> 1.0.0)
+    - IBMFileSync (~> 1.0.0)
+  - IBMFileSync (1.0.0.20140707-1250):
+    - IBMBluemix (~> 1.0.0)
+  - IBMPush (1.0.0.20140707-1250):
+    - IBMBluemix (~> 1.0.0)
+
+DEPENDENCIES:
+  - IBMBluemix (~> 1.0)
+  - IBMCloudCode (~> 1.0)
+  - IBMData (~> 1.0)
+  - IBMFileSync (~> 1.0)
+  - IBMPush (~> 1.0)
+
+SPEC CHECKSUMS:
+  IBMBluemix: 1ba152c01eda1f27d4208a1969763689699ee111
+  IBMCloudCode: 78f09796bd2d5142eaabb409cc4f7182da83726e
+  IBMData: 05e82de03dab5f44fd4ebaf1052184222abb3087
+  IBMFileSync: 8a3f183d7b2c1784a505b920539a0d6d97005e36
+  IBMPush: a5dda07fa2c6eb18c3f49fb35ff45385cee88d79
+
+COCOAPODS: 0.33.1
